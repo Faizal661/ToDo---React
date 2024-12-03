@@ -1,6 +1,6 @@
-import { useState } from "react";
+// import { useState } from "react";
 import "./App.css";
-import { ImageHeader } from "./components/imageHeader";
+import { ImageHeader } from "./components/ImageHeader";
 function App() {
   // const [count, setCount] = useState(0);
 
